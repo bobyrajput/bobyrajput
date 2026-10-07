@@ -1,4 +1,4 @@
-# Hey 👋, I'm Bobby Rajput
+# Hey 👋, I'm Boby Rajput
 
 ### 📊 Aspiring Data Analyst • SQL • Excel • Power BI • Python
 
